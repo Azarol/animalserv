@@ -1,0 +1,12 @@
+spring:
+
+  jpa:
+    database: POSTGRESQL
+    show-sql: false
+    format-sql: true
+
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/animalserv
+    username: pguser
+    password: a#lsdhHEkj345l
