@@ -3,7 +3,6 @@ package org.zooserv.animalserv.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.zooserv.animalserv.model.Animal;
 import org.zooserv.animalserv.service.AnimalService;
 
 @RestController
